@@ -1,0 +1,6 @@
+using GORM(ORM library)
+GIN(web framework for Go)
+bcrypt for hashing the password
+go jwt for jwt tokens
+godotenv: to save environment variables.
+CompileDaemon: continuous development (every save restarts the server)
