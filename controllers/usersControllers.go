@@ -101,7 +101,3 @@ func Validate(c *gin.Context) {
 		"message": user,
 	})
 }
-
-func RenewAccessToken(c *gin.Context) {
-
-}
