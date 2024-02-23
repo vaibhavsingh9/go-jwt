@@ -92,7 +92,6 @@ func Login(c *gin.Context) {
 
 	c.JSON(http.StatusOK, gin.H{})
 
-	//send it back
 }
 
 func Validate(c *gin.Context) {
@@ -101,4 +100,8 @@ func Validate(c *gin.Context) {
 	c.JSON(http.StatusOK, gin.H{
 		"message": user,
 	})
+}
+
+func RenewAccessToken(c *gin.Context) {
+
 }
