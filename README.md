@@ -11,6 +11,9 @@ external libraries used:
 ```
 go get ./
 ```
+```
+go install github.com/githubnemo/CompileDaemon
+```
 
 ```
 compiledaemon --command="./go-jwt"
