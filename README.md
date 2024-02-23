@@ -15,3 +15,7 @@ go get ./
 ```
 go install github.com/githubnemo/CompileDaemon
 ```
+To run using compile daemon:
+```
+compiledaemon --command="./go-jwt"
+```
