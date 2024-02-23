@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #Go JWT Authentication
 
 external libraries used:
